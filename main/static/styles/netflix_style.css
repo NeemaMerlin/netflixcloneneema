@@ -1,0 +1,30 @@
+#nav{
+    display: flex;
+    background-color: lightcoral;
+    align-items: center;
+    margin-top: 10px;
+    position: sticky;
+}
+#img1{
+    height: 80px;
+    width: 100px;
+    margin-left: 10px;
+    margin-top: 5px;
+}
+#space{
+    width: 700px;
+}
+body{
+    background-color: aqua;
+    background-image: url("/static/images/netflix.jpg");
+}
+#home,#about,#port,#blog,#contact{
+    padding: 10px;
+}
+#footer{
+    background-color: black;
+    color: white;
+    position: fixed;
+    margin-bottom: 0px;
+    
+}
